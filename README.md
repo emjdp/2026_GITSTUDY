@@ -1,17 +1,19 @@
 # 🚀 Welcome to Park Seong-ho's Git Study 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&background=0D111700&vCenter=true&width=600&lines=Hello,+I'm+Park+Seong-ho+👋;Studying+at+Kyung+Hee+University+🏫;Welcome+to+my+Git+Study+Space!+💻" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Park+Seong-ho!;Studying+at+Kyung+Hee+University;Welcome+to+my+Git+Study+Space!)](https://git.io/typing-svg)
+
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://emjdp.github.io/2026_GITSTUDY/" target="_blank">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Play 3D Game" />
-    <br>
-    <b>🎮 Play My 3D Game! (Click Here) 🎮</b>
-  </a>
+
+[![Play 3D Game](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://emjdp.github.io/2026_GITSTUDY/)
+
+**🎮 [Play My 3D Git Commit Runner Game! Click Here!](https://emjdp.github.io/2026_GITSTUDY/) 🎮**
+
 </div>
 
 ### 👨‍💻 About Me
@@ -32,7 +34,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emjdp&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emjdp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=emjdp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🌱 My GitHub Grass
