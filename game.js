@@ -79,9 +79,9 @@ function startGame() {
 function onKeyDown(event) {
     if (!gameActive) return;
     const moveDistance = 2;
-    if (event.key === 'ArrowLeft') {
+    if (event.key === 'ArrowLeft' || event.key === 'a' || event.key === 'A') {
         player.position.x = Math.max(-6, player.position.x - moveDistance);
-    } else if (event.key === 'ArrowRight') {
+    } else if (event.key === 'ArrowRight' || event.key === 'd' || event.key === 'D') {
         player.position.x = Math.min(6, player.position.x + moveDistance);
     }
 }
