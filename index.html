@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git Commit Runner - Park Seong-ho</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="ui">
+        <h1 id="score-display">Commits: 0</h1>
+        <div id="game-over" class="hidden">
+            <h2>Merge Conflict! (Game Over)</h2>
+            <p>You hit a bug.</p>
+            <button id="restart-btn">Try Again</button>
+        </div>
+        <div id="start-screen">
+            <h2>Git Commit Runner</h2>
+            <p>Use Left/Right arrow keys to dodge the red bugs and collect the green commits!</p>
+            <button id="start-btn">Start Game</button>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="game.js"></script>
+</body>
+</html>
