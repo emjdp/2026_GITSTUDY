@@ -34,7 +34,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emjdp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=emjdp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
   <br>
   <img src="https://streak-stats.demolab.com?user=emjdp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
