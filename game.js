@@ -13,7 +13,7 @@ const startBtn = document.getElementById('start-btn');
 const restartBtn = document.getElementById('restart-btn');
 
 function init() {
-    // Setup Scene
+    // Setup Scene!
     scene = new THREE.Scene();
     scene.fog = new THREE.FogExp2(0x0d1117, 0.02);
 
@@ -31,7 +31,7 @@ function init() {
     // Add Lights
     const ambientLight = new THREE.AmbientLight(0xffffff, 0.6);
     scene.add(ambientLight);
-    
+
     const dirLight = new THREE.DirectionalLight(0xffffff, 0.8);
     dirLight.position.set(10, 20, 10);
     scene.add(dirLight);
@@ -60,13 +60,13 @@ function init() {
 function startGame() {
     startScreen.classList.add('hidden');
     gameOverScreen.classList.add('hidden');
-    
+
     // Reset state
     score = 0;
     speed = 0.3;
     scoreDisplay.innerText = `Commits: ${score}`;
     player.position.x = 0;
-    
+
     // Clear old objects
     obstacles.forEach(o => scene.remove(o));
     commits.forEach(c => scene.remove(c));
